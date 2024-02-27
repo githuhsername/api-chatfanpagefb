@@ -1,0 +1,19 @@
+{
+  "name": "api-chatfb",
+  "version": "1.0.0",
+  "description": "api get info chat fb",
+  "main": "1",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/githuhsername/api-chatfanpagefb.git"
+  },
+  "keywords": [
+    "api-chatfb"
+  ],
+  "author": "phamton",
+  "license": "MIT"
+  
+}
