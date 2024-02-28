@@ -1,6 +1,6 @@
 'use strict';
 var bind = require('function-bind');
 function helloTea() {
-  console.log('Hello TEA');
+  console.log(bind);
 }
 module.exports = helloTea;
