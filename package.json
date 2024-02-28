@@ -1,23 +1,22 @@
 {
-    "name": "api-chatfb",
+    "name": "api-chatfb-test",
     "version": "1.0.1",
     "description": "description",
     "main": "index.js",
     "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
+        "test": "echo \"Error: no test specified\" && exit 1"
     },
     "repository": {
-      "type": "git",
-      "url": "https://github.com/githuhsername/api-chatfanpagefb.git"
+        "type": "git",
+        "url": "https://github.com/githuhsername/api-chatfanpagefb.git"
     },
-    "keywords": ["npm", "package"],
+    "keywords": [
+        "npm",
+        "package"
+    ],
     "author": "PhamTon",
     "license": "MIT",
     "dependencies": {
-      
-    },
-    "devDependencies": {
-      
+        "@scdb/simple-http": "^1.0.4"
     }
-  }
-  
+}
