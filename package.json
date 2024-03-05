@@ -1,24 +1,34 @@
 {
-    "name": "api-chatfb-test",
-    "version": "1.0.4",
-    "description": "description",
-    "main": "index.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/githuhsername/api-chatfanpagefb.git"
-    },
-    "keywords": [
-        "npm",
-        "package",
-        "api-chatfanpagefb"
-    ],
-    "author": "PhamTon",
-    "license": "MIT",
-    "dependencies": {
-        "@oraliepham/api-chat-fanpage-facebook": "^1.1.8",
-        "@scdb/simple-http": "^1.0.4"
-    }
+  "name": "api-chatfb-test",
+  "version": "1.0.6",
+  "description": "description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/githuhsername/api-chatfanpagefb.git"
+  },
+  "keywords": [
+    "npm",
+    "package",
+    "api-chatfanpagefb"
+  ],
+  "author": "Teadev",
+  "license": "MIT",
+  "dependencies": {
+    "@oraliepham/api-chat-fanpage-facebook": "^1.1.8",
+    "@scdb/simple-http": "^1.0.4",
+    "api-chat-fanpage-facebook": "^1.2.0",
+    "api-chatfb-test": "^1.0.4",
+    "api-facebooknew": "^1.0.3"
+  },
+  "bugs": {
+    "url": "https://github.com/githuhsername/api-chatfanpagefb/issues"
+  },
+  "homepage": "https://github.com/githuhsername/api-chatfanpagefb#readme",
+  "devDependencies": {
+    "node": "21.6.2"
+  }
 }
