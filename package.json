@@ -1,6 +1,6 @@
 {
-  "name": "api-chatfb-test",
-  "version": "1.0.6",
+  "name": "api-chatfb",
+  "version": "1.0.8",
   "description": "description",
   "main": "index.js",
   "scripts": {
@@ -18,11 +18,16 @@
   "author": "Teadev",
   "license": "MIT",
   "dependencies": {
-    "@oraliepham/api-chat-fanpage-facebook": "^1.1.8",
     "@scdb/simple-http": "^1.0.4",
+    "@libphamton/api-client-x": "^1.0.7",
+    "@libphamton/chatfanpage": "^1.0.1",
+    "@libphamton/client-fb": "github:libphamton/client-fb",
+    "@oraliepham/api-chat-fanpage-facebook": "^1.2.0",
+    "@oraliepham/api-facebooknew": "^1.0.5",
     "api-chat-fanpage-facebook": "^1.2.0",
-    "api-chatfb-test": "^1.0.4",
-    "api-facebooknew": "^1.0.3"
+    "api-chatfb": "^1.0.7",
+    "api-chatfb-test": "^1.0.6",
+    "api-facebooknew": "^1.0.4"
   },
   "bugs": {
     "url": "https://github.com/githuhsername/api-chatfanpagefb/issues"
