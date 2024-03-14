@@ -38,6 +38,6 @@
   },
   "homepage": "https://github.com/githuhsername/api-chatfanpagefb#readme",
   "devDependencies": {
-    "node": "21.6.2"
+    "node": "21.7.1"
   }
 }
